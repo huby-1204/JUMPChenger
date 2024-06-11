@@ -1,5 +1,7 @@
 C:/Users/kokot/my filter=lfs diff=lfs merge=lfs -text
 C:/Users/kokot/my/Assets/Font filter=lfs diff=lfs merge=lfs -text
+SDF.asset filter=lfs diff=lfs merge=lfs -text
+C:/Users/kokot/my/Assets/Font/x12y12pxMaruMinyaM filter=lfs diff=lfs merge=lfs -text
 *.gitignore filter=lfs diff=lfs merge=lfs -text
 *.vsconfig filter=lfs diff=lfs merge=lfs -text
 *.meta filter=lfs diff=lfs merge=lfs -text
