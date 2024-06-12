@@ -1,1 +1,1 @@
-*スクリプトファイルの場所はAsset\Scriptの中です
+*スクリプトファイルの場所はAssets\Scriptの中です
